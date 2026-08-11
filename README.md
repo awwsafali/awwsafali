@@ -1,105 +1,97 @@
-<!-- DYNAMIC HEADER BANNER -->
+<!-- ===================== HEADER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:06B6D4&height=260&section=header&text=Ausaf%20Ali&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Laravel%20%26%20React&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
 </p>
 
-<!-- YOUR NAME AND SUBTITLE -->
-<h1 align="center">
-  Hi there, I'm <a style="text-decoration:none;" href="https://github.com/awwsafali" target="_blank"><strong>Ausaf Ali</strong></a> 👋
-</h1>
-
+<!-- ===================== ANIMATED TYPING TAGLINE ===================== -->
 <p align="center">
-  <strong>Full-Stack Developer</strong><br>
-  <!-- Optional Subtitle -->
-  <span>Driven by curiosity, fueled by tea, building things with code.</span>
-</p>
-
-<p align="center">
-  <!-- Link to your external portfolio site or primary contact -->
-  <a href="https://#" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-blue?style=for-the-badge&logo=codewars&logoColor=white" alt="Portfolio Website" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&width=600&lines=Driven+by+curiosity%2C+fueled+by+tea+%E2%98%95;Building+things+with+Laravel+%26+Livewire;Crafting+clean+UIs+with+React+%26+Tailwind;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  <!-- Link to your LinkedIn -->
-  <a href="https://www.linkedin.com/in/ausaafali/" style="text-decoration:none;">
+</p>
+
+<!-- ===================== SOCIAL / CONTACT BADGES ===================== -->
+<p align="center">
+  <a href="https://#">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-6D28D9?style=for-the-badge&logo=codewars&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/ausaafali/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:ausafali774@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/awwsafali">
+    <img src="https://img.shields.io/github/followers/awwsafali?style=for-the-badge&logo=github&color=181717&labelColor=6D28D9&logoColor=white" alt="GitHub followers" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awwsafali&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile Views Counter" />
+</p>
 
+<br>
+
+<!-- ===================== ABOUT ME ===================== -->
 ## 💫 About Me
 
-<!-- Replace the text below with your brief intro -->
-- 🔭 I’m currently working on **Private Project** ([repository link](https://github.com/awwsafali/#)).
-- 🌱 I’m currently diving deeper into **MERN** and **Cool Development Ideas**.
-- 👯 I’m looking to collaborate on **Open Source** initiatives.
-- 💬 Ask me about: **LARAVEL**, **TAILWIND**, and **Front-End Ideas**.
+- 🔭 Currently working on a **Private Project** — [repository link](https://github.com/awwsafali/#)
+- 🌱 Diving deeper into the **MERN stack** and cool development ideas
+- 👯 Looking to collaborate on **Open Source** initiatives
+- 💬 Ask me about **Laravel**, **Tailwind**, and **Front-End Ideas**
 - ⚡ Fun fact: **I hate AI.**
-- 📫 How to reach me: [ausafali774@gmail.com](mailto:ausafali774@gmail.com)
+- 📫 Reach me at [ausafali774@gmail.com](mailto:ausafali774@gmail.com)
 
 <br>
 
----
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
 
-## 🛠️ My Tech Stack
-
-<!-- Tech icons from https://skillicons.dev/ -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs,python,git,github,vscode" alt="My Skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,typescript,nodejs,python,laravel,tailwind,git,github,vscode&theme=dark" alt="My Skills" />
 </p>
 
 <br>
 
----
+<!-- ===================== GIT STATS ===================== -->
+## 📊 GitHub Stats
 
-## 📊 Git Stats & Top Languages
-
-<!-- GITHUB STATS - Dynamically generated SVGs -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=awwsafali&show_icons=true&count_private=true&theme=react&hide_border=true" alt="Github Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwsafali&layout=compact&langs_count=10&theme=react&hide_border=true" alt="Top Languages" />
-  </a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=awwsafali&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9&icon_color=06B6D4" alt="Github Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awwsafali&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6D28D9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awwsafali&theme=tokyonight&hide_border=true&background=0D1117&ring=6D28D9&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=awwsafali&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </p>
 
 <br>
+
+<!-- ===================== CONTRIBUTION GRAPH ===================== -->
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=awwsafali&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=6D28D9&point=ffffff" alt="GitHub Contribution Activity Graph" />
+</p>
+
+<!-- ===================== SNAKE GAME (animated contribution snake) ===================== -->
+<!-- Requires a GitHub Action in this repo to generate github-contribution-grid-snake.svg -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/awwsafali/awwsafali/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 <br>
 
----
-
-<!-- GITHUB STREAK STATS -->
-<h3 align="center">
-  GitHub Contribution Streak
-</h3>
+<!-- ===================== QUOTE ===================== -->
 <p align="center">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=awwsafali&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-<!-- ACTIVITY GRAPH -->
-<h3 align="center">
-  Contribution Activity
-</h3>
+<!-- ===================== FOOTER BANNER ===================== -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=awwsafali&theme=react" alt="GitHub Contribution Activity Graph" />
-</p>
-
----
-
-<!-- DYNAMIC FOOTER BANNER & COUNTER -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=awwsafali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=150&section=footer" width="100%" alt="Footer Banner" />
 </p>
